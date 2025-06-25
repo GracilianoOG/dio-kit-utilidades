@@ -1,7 +1,7 @@
 {
   "name": "dio-kit-utilidades",
   "version": "1.0.0",
-  "description": "Kit de utilidades para e-commerces.",
+  "description": "Kit de utilidades para uso geral.",
   "main": "index.js",
   "type": "module",
   "scripts": {
