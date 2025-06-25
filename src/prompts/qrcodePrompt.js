@@ -8,7 +8,7 @@ export const qrcodePrompt = [
   {
     name: "type",
     description: chalk.blue.bold(
-      "Escolha entre o tipo de QR Code (1 - NORMAL ou (2 - TERMINAL"
+      "Escolha entre o tipo de QR Code:\n(1) - NORMAL\n(2) - TERMINAL\nOPÇÃO"
     ),
     pattern: /^[1-2]+$/,
     message: chalk.red.italic("Escolha apenas entre 1 e 2"),
