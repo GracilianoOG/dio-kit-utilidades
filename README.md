@@ -26,7 +26,13 @@ cd dio-kit-utilidades/
 code .
 ```
 
-4. Rode o projeto com o script (requer o NodeJS v20+ e NPM instalados):
+4. Instale as dependências:
+
+```
+npm install
+```
+
+5. Rode o projeto com o script (requer o NodeJS v20+ e NPM instalados):
 
 ```
 npm start
